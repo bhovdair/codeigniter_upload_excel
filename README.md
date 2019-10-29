@@ -8,10 +8,10 @@ PHP Codeigniter upload Excel
 Please follow step below :
 
 1. Create Database 'ci_upload_excel'
-   CREATE DATABASE ci_upload_excel;
+   - CREATE DATABASE ci_upload_excel;
    
 2. Create table 'tbl_upload'
-   CREATE TABLE
+   - CREATE TABLE
       tbl_upload
       (Tbl_id INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
        Column1 TEXT NULL,
