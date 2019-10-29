@@ -18,3 +18,6 @@ Please follow step below :
        Column2 TEXT NULL,
        Column3 TEXT NULL,
        Column4 TEXT NULL);
+
+3. Access to {server_url}/codeigniter_upload_excel
+4. Upload file example 'Excel Example'
